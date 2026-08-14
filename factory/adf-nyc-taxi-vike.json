@@ -1,0 +1,15 @@
+{
+	"name": "adf-nyc-taxi-vike",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "30c40f34-a843-4d73-b118-f905eca88d56",
+		"tenantId": "daa8f752-36e2-4a8c-94b6-13f4ed636308"
+	}
+}
