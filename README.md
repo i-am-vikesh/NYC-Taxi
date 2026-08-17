@@ -16,6 +16,8 @@ The project demonstrates how raw taxi data can be ingested, stored, transformed,
 
 ## 🏗️ Architecture
 
+![NYC Taxi Azure Data Engineering Architecture](architecture/architecture-diagram.png)
+
 ```text
                     NYC Taxi Data
                          │
